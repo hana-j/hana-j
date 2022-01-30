@@ -2,7 +2,6 @@
 - 👀 I’m interested in interactive service
 - 🌱 I’m currently learning vanillaJS and node.js
 - 📫 How to reach me contact by email, hanainus@icloud.com
-- 🛳 I'm in 항해99 team
 - 💞️ I love swimming
 <!---
 hana-j/hana-j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
