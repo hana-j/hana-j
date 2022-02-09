@@ -10,7 +10,6 @@
 
  </br> 
  </br> 
- </br> 
 
 
  <div align=center>
@@ -34,7 +33,7 @@
 ![aws ec2](https://img.shields.io/badge/AWSEC2%20-232F3E?style=flat-square&logo=AmazonAWS&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ---
-
+ </br> 
 ### `Contact Me`
 
 📧 aswjdgksk@naver.com
